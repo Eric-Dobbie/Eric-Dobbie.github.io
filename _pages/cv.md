@@ -9,51 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+Contact Informtion
+======
+Email: edobbie@emory.edu
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Georgia Institute of Technology, 2021
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Political Economy, Urban Politics, Political Methods
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Working Papers
+======
+"The Effect of Information about Police Shootings of Civilians on Public Support for Police Reforms"  
+Kaylyn Jackson Schiff, Eric Dobbie, Anna Gunderson, Adam Glynn, Michael Leo Owens, and Tom Clark
+
+Works In Progress
+======
+"Cop Curbing in American Cities: Descriptive Representation and Responsiveness to Protest"  
+Eric Dobbie and Alex Snipes
+
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+=====
+Technical  
+* R (advanced), Python (intermediate), STATA (novice), Mathematica (novice) 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Language  
+* French (Conversational)
