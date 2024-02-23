@@ -9,32 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Contact Informtion
-======
-Email: edobbie@emory.edu
-
-Education
-======
-* B.S. in Economics, Georgia Institute of Technology, 2021
-
-Research Interests
-======
-Political Economy, Urban Politics, Political Methods
-
-Working Papers
-======
-"The Effect of Information about Police Shootings of Civilians on Public Support for Police Reforms"  
-Kaylyn Jackson Schiff, Eric Dobbie, Anna Gunderson, Adam Glynn, Michael Leo Owens, and Tom Clark
-
-Works In Progress
-======
-"Cop Curbing in American Cities: Descriptive Representation and Responsiveness to Protest"  
-Eric Dobbie and Alex Snipes
-
-Skills
-=====
-Technical  
-* R (advanced), Python (intermediate), STATA (novice), Mathematica (novice) 
-
-Language  
-* French (Conversational)
+<iframe src="/files/DobbieCV2_14_2024.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>

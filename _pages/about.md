@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a political science PhD student at Emory University. I study urban politics, with a concentration on policing politics and environmental politics, and political methodology. 
+I am a political science Ph.D. student in the Department of Political Science at Emory University. I study lcoal politics and research methods, with a concentration on the politics of politcing and data quality. 
 
-I earned my B.S. in Economics from the Georgia Institute of Technology in 2021.
+Prior to joining Emory University, I earned my B.S. in Economics from the Georgia Institute of Technology in 2021.

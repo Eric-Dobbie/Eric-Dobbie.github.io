@@ -1,16 +1,26 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<h2>Peer-Reviewed Publications</h2>
 
-{% include base_path %}
+[Schiff, Kaylyn, Tom S. Clark, Adam Glynn, Michael Leo Owens, Anna Gunderson, and Eric Dobbie. Forthcoming. "Police Shootings Statistics and Public Support for Police Reforms" _Journal of Experimental Political Science_](https://static1.squarespace.com/static/58d3d264893fc0bdd12db507/t/65a9c1a09de8951c5beae7b9/1705623968931/SchiffEtAlJEPS2023.pdf)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Abstract: Does providing information about police shootings influence policing reform preferences? We conducted an online survey experiment in 2021 among approximately 2,600 residents of 10 large U.S. cities. It incorporated original data we collected on police shootings of civilians. After respondents estimated the number of police shootings in their cities in 2020, we randomized subjects into three treatment groups and a control group. Treatments included some form of factual information about the police shootings in respondents' cities (e.g., the actual total number). Afterwards, respondents were asked their opinions about five policing reform proposals. Police shootings statistics did not move policing reform preferences. Support for policing reforms is primarily associated with partisanship and ideology, coupled with race. Our findings illuminate key sources of policing reform preferences amongst the public and reveal potential limits of information-driven, numeric-based initiatives to influence policing in the U.S.
+
+<h2>Working Papers</h2>
+
+<h3>Police respond to violent crime more lethally in Black neighborhoods than in White neighborhoods (wtih Tom Clark, Michael Leo Owens, and Adam Glynn)</h3>
+
+Abstract: Public, political, and academic attention has focused on the concern that Black communities are over-policed. Critics typically point to glaring racial disparities in the use of force by police, but serious debate remains about the nature and source of those disparities. Are they driven by racial discrimination (taste-based discrimination), or are they a by-product of police targeting areas of crime that are correlated with race due to residential segregation in American cities (statistical discrimination)? We study the relationship between police shootings and the racial composition of urban neighborhoods in the United States. Our evidence shows that racial disparities in police shootings cannot be attributed to differences in crime or socioeconomic conditions alone. Specifically, we find that police respond more lethally to violent crime in neighborhoods with larger Black populations, even after accounting for socioeconomic conditions. As crime increases, the rate of police shootings increases faster in Census tracts with larger Black populations than in Census tracts with smaller Black populations. This pattern is evidence that racial disparities in the rate of police using force against citizens cannot simply be attributed to differences in the social conditions of the neighborhoods where most Black Americans reside. The findings have implications for proposed reforms for reducing racial disparities in policing and increasing more equitable policing across urban neighborhoods.
+
+<h3>Where Police Live: Assessing the Effect of Police Residency Requirements on Severe Use-of-Force</h3>
+
+Abstract: The degree to which police function as representative bureaucracy and descriptive representatives is of substanital importance. An open question about the police, one stemming from both the literature om representative bureaucracy and descriptive representation, is whether where police live influences how police behave. Integrating the literatures on representative bureaucracy, social context, and intergroup contact, I build on theoretical literature predicting that when police reside where they "serve and protect" police use of force should be lower, adding considerations of the timing and persistence of the predicted effects. I test this prediction with a synthetic control analysis, exploiting a municipal policy changes in Pittsburgh and Milwaukee to assess the effect of residency requirement policies on police of use-of-force. I find that implementing a residency requirement causes a large reduction in "severe" use-of-force incidents, with immediate reductions following the policy change. I contribute to existing literature on residency requirements by showing differential effects of implementing and removing requirements and examining use-of-force outcomes rather than fatal encounters with police.
+
+<h3>Gender and Voter Evaluations of Local Candidates: An Examination of the Femininity-Competency Double Bind. (with Alex Snipes)</h3>
+
+Abstract: Do the campaign messages and associated images women candidates for mayoral office use influence how voters evaluate them, and does this matter more for certain women candidates than others? Previous studies often attribute a double bind to all women politicians, but women are not a monolith, and their campaigns are a reflection of their overlapping identities. We argue that not all women candidates risk the perception of their competency being weakened by an emphasis on stereotypically feminine messages or images. We posit that Republican women who identify with a party associated with stereotypes traditionally associated with masculinity and who appeal to electorates with traditional gender ideologies do not face the double bind. In other words, we theorize that stereotype-congruent campaigns for Republican women do not undermine their perceived competence, and an emphasis on their femininity may actually be an asset to their appeal. Using an experiment with a novel treatment embedding social media profiles, we examine whether the messages and images utilized by women mayoral candidates on the campaign trail affect voters' perception of their competency for office, and whether these evaluations differ for women candidates of the Republican Party versus the Democratic Party. The findings generated from this proposed experimental analysis could thus bring additional clarity to questions around who benefits from and who is penalized by the use of gendered campaign styles.
